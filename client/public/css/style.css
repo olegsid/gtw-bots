@@ -1,0 +1,48 @@
+body {
+  max-width: 1200px;
+  padding: 20px;
+  margin: 0 auto;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  background-color: #fff;
+}
+
+input, button {
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: #42b983;
+}
+
+.express-welcome {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+nav {
+  text-align: center;
+}
+
+nav > a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.router-link-active {
+  font-weight: bold;
+}
+
+.page h3 {
+  text-align: center;
+}
+
+.page p {
+  text-align: center;
+}
