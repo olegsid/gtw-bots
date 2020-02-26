@@ -11,7 +11,7 @@
     "build-client": "cross-env NODE_ENV=production browserify client/src/client.js | uglifyjs --compress warnings=false --mangle > client/dist/build.js"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "body-parser": "~1.18.2",
     "compression": "^1.7.1",
     "cookie-parser": "~1.4.3",
