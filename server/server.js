@@ -1,4 +1,4 @@
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 3100;
 var http = require('http');
 var express = require('express');
 var compression = require('compression');

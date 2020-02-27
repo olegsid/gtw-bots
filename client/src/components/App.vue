@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav>
-      <span>Vue router links: </span>
+      <span>Add join urls of registrants</span>
     </nav>
     <router-view></router-view>
   </div>
